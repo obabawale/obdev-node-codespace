@@ -4,7 +4,8 @@
   "description": "Simple nodejs app using github codespaces",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test",
+    "start": "node index.js"
   },
   "author": "Olalekan Babawale",
   "license": "MIT",
