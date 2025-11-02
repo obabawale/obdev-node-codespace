@@ -1,0 +1,15 @@
+{
+  "name": "obdev-node-codespace",
+  "version": "1.0.0",
+  "description": "Simple nodejs app using github codespaces",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Olalekan Babawale",
+  "license": "MIT",
+  "dependencies": {
+    "cors-headers": "^1.0.0",
+    "express": "^5.1.0"
+  }
+}
